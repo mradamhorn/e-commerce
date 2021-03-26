@@ -9,8 +9,9 @@
 - [Questions](#questions)
 - [License](#license)
 
-## Instructional Video
-[Instructional Video]()
+## Walkthrough Videos
+[Walkthrough Video - Part 1](https://drive.google.com/file/d/1NVd4ZP1hhkOM9SR_NFuGi3nDYoJcJpT5/view)
+[Walkthrough Video - Part 2](https://drive.google.com/file/d/1arPDsHOyRmMfpYpQznOij55T1r_NM2Tn/view)
 
 ---
 
